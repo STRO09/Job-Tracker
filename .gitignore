@@ -1,0 +1,24 @@
+# Dependencies
+node_modules/
+dist/
+
+# Environment variables
+.env
+.env.local
+*.local
+
+# Prisma generated files
+**/generated/prisma/
+
+# Database backups
+*.sql
+
+# Editor
+.vscode/*
+!.vscode/extensions.json
+
+# Logs and OS files
+*.log
+
+# Resources
+docs/

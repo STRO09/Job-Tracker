@@ -1,0 +1,94 @@
+/* apps/web/src/styles/HomePage.css */
+
+.home-page {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 3rem 1.5rem;
+}
+
+.home-page .eyebrow {
+    font-family: var(--font-code);
+    font-size: 0.75rem;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--accent);
+    margin-bottom: 0.5rem;
+    display: block;
+}
+
+.home-page h1 {
+    font-size: 2.25rem;
+    margin-bottom: 1.5rem;
+}
+
+.add-application-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    border: 1px solid var(--ink);
+    color: var(--ink);
+    padding: 0.5rem 1.1rem;
+    border-radius: 999px;
+    font-family: var(--font-code);
+    font-size: 0.85rem;
+    margin-bottom: 2.5rem;
+    transition: background-color 0.15s ease, color 0.15s ease;
+}
+
+.add-application-link:hover {
+    background-color: var(--ink);
+    color: var(--light-cream);
+    text-decoration: none;
+}
+
+/* filter/sort ui section */
+.filter-sort-ui {
+    background-color: var(--background-panel);
+    border: 1px solid var(--line);
+    border-radius: 8px;
+    padding: 1.25rem 1.5rem;
+    margin-bottom: 2.5rem;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.5rem;
+    align-items: center;
+}
+
+.filter-group {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.filter-sort-ui label {
+    font-family: var(--font-code);
+    font-size: 0.8rem;
+    color: var(--secondary-text);
+    white-space: nowrap;
+}
+
+.filter-sort-ui select {
+    font-family: var(--font-body);
+    border: 1px solid var(--line);
+    border-radius: 999px;
+    padding: 0.35rem 0.9rem;
+    background-color: var(--white);
+    color: var(--ink);
+}
+
+.sort-group select:first-of-type {
+    margin-right: 0.4rem;
+}
+
+/* application list */
+.applications-list {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+}
+
+.applications-list hr {
+    border: none;
+    border-top: 1px solid var(--line);
+    margin: 0;
+}

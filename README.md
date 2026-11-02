@@ -10,7 +10,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/MK-DlR/job-tracker">
+  <a href="https://github.com/STRO/Job-Tracker">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -19,14 +19,13 @@
   <p align="center">
     Full-stack TypeScript job application tracker with follow-up reminders, status dashboard, and filtering/sorting built for tracking a real job search.
     <br />
-    <a href="https://github.com/MK-DlR/job-tracker"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/STRO/Job-Tracker"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://job-tracker-api-six.vercel.app/">View Demo</a>
     &middot;
-    <a href="https://github.com/MK-DlR/job-tracker/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    <a href="https://github.com/STRO/Job-Tracker/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     &middot;
-    <a href="https://github.com/MK-DlR/job-tracker/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+    <a href="https://github.com/STRO/Job-Tracker/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
   </p>
 </div>
 
@@ -66,8 +65,6 @@
 <!-- ABOUT THE PROJECT -->
 
 ## About The Project
-
-[![Job Application Tracker Screen Shot][product-screenshot]](https://job-tracker-api-six.vercel.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -161,7 +158,7 @@ Applications can be logged with company, role, status, resume/cover letter links
 
 ### How to Use the App
 
-1. Open the app at http://localhost:5173 or visit the [live demo](https://job-tracker-api-six.vercel.app/)
+1. Open the app at http://localhost:5173.
 2. Click "Add New Application" to log a new application
 3. Use the filter/sort panel to view applications by status, follow-up due, date, or status order
 4. Click "Edit" on any application to update its status or details, or "Delete" to remove it
@@ -185,7 +182,7 @@ Applications can be logged with company, role, status, resume/cover letter links
 - [x] Deploy live demo
 - [x] Mobile responsiveness pass
 
-See the [open issues](https://github.com/MK-DlR/job-tracker/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/STRO/Job-Tracker/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -206,7 +203,7 @@ Contributions are what make the open source community such an amazing place to l
 ### Top contributors:
 
 <a href="https://github.com/MK-DlR/job-tracker/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=MK-DlR/job-tracker" alt="contrib.rocks image" />
+  <img src="https://contrib.rocks/image?repo=STRO/Job-Tracker" alt="contrib.rocks image" />
 </a>
 
 <!-- LICENSE -->
